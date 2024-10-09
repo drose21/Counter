@@ -1,0 +1,62 @@
+
+.wrap {
+ 
+    padding: 200px 50px 100px;
+    max-height: 800px;
+    text-align: center;
+}
+body {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-attachment: fixed;
+    background-position: center;
+    color: whitesmoke;
+    background-image: url("gym.jpg");
+    background-size: 600px 800px;
+    background-repeat: no-repeat;
+    font-family: 'Oxygen', 'Segoe UI', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+
+    font-size:  50px;
+    color: whitesmoke;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+ 
+    color: beige;
+    font-size: 80px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+    border: none;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: teal;
+}
+
+#save-btn {
+    background: crimson;
+}
+
